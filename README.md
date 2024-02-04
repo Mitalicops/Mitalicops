@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 # 💫 About Me:
 I am a passionate and versatile Full Stack Developer with expertise in a wide array of technologies. My journey in the world of technology has led me to become proficient in building scalable web applications, handling databases, and exploring the exciting realms of Machine Learning and Data Science.
 
