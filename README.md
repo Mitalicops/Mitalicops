@@ -1,7 +1,22 @@
 ### Hi there 👋
 # 💫 About Me:
-I AM CURRENTLY A FULL STACK DEVELOPER
+I am a passionate and versatile Full Stack Developer with expertise in a wide array of technologies. My journey in the world of technology has led me to become proficient in building scalable web applications, handling databases, and exploring the exciting realms of Machine Learning and Data Science.
 
+## 👨‍💻FULL STACK WEB DEVELOPMENT
+# Frontend Development: React.js, Next.js
+# Backend Development: Node.js, Express.js
+# Database Technologies: PostgreSQL, Prisma, MongoDB
+# Languages: JavaScript, TypeScript
+
+## 🤖 Machine Learning and Data Science Enthusiast
+# I also delve into the fascinating world of Machine Learning and Data Science using tools like NumPy, Pandas, and Matplotlib. Leveraging data to derive meaningful insights and building predictive models are challenges that I embrace with enthusiasm.
+
+## 🚀 What I Love
+I thrive on creating delightful user experiences through responsive and efficient web applications. 
+With a keen eye for detail, I specialize in crafting robust backend solutions that seamlessly integrate with intuitive frontends.
+
+## 🌐 Let's Connect
+Whether you have an exciting project, want to discuss the latest tech trends, or simply connect over a shared interest, feel free to reach out. Let's collaborate and build something amazing together!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mitalicops_nasir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nasir Malik) 
